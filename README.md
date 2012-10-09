@@ -1,4 +1,7 @@
 ## Sublime-Pascal ##
+Pascal support for Sublime Text 2. Based on Sublime-Pascal by diniremix; with some fixes and updates added, partially translated into English.
+
+## Sublime-Pascal ##
 Es un paquete para [Sublime Text 2][sublime] que incluye una gran variedad de snippets, asi como autocompletado de codigo para el lenguaje de programacion [Pascal][pascal_lang].
 
 ### Instalacion (sin el Control de paquetes) ###
